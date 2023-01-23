@@ -1,0 +1,47 @@
+header {
+    background-color: #23376d;
+    color: white;
+    text-align: center;
+    font-family: "Segoe UI";
+    padding: 20px;
+}
+
+#contenido {
+    font-family: "Segoe UI";
+    padding: 20px;
+    border: 4px solid #23376d;
+}
+
+#perito {
+    background-color: #23376d;   
+}
+
+#basico {
+    background-color: #7D0A42;
+}
+
+#universitario{
+    background-color: #B2BABB;
+}
+
+p {
+    color: #FFFF;
+}
+
+.subtitulos {
+    text-align: center;
+    color: #FFFF;
+}
+
+
+#cuerpo-pagina {
+    background-color: #1D245E;
+}
+
+#imagenes-kinal {
+    display: block;
+    margin: auto;
+    height: 250px;
+    width: 400px;
+}
+
