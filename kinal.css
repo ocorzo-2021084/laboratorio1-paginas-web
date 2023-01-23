@@ -38,10 +38,10 @@ p {
     background-color: #1D245E;
 }
 
-#imagenes-kinal {
+.imagenes-kinal {
     display: block;
     margin: auto;
-    height: 250px;
-    width: 400px;
+    height: 200px;
+    width: 300px;
 }
 
