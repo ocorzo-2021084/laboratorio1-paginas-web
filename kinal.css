@@ -41,7 +41,16 @@ p {
 .imagenes-kinal {
     display: block;
     margin: auto;
-    height: 200px;
-    width: 300px;
+    height: 300px;
+    width: 400px;
+}
+
+@media (max-width: 712px) {
+    .imagenes-kinal {
+        display: block;
+        margin: auto;
+        height: 180px;
+        width: 280px;
+    }
 }
 
